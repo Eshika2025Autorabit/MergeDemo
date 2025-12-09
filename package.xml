@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>64.0</version>
+    <types>
+        <members>ApprovalSubmission.Comments</members>
+        <members>ApprovalSubmission.DoesSendApprovalEmail</members>
+        <members>ApprovalSubmission.FlowOrchestrationInstanceId</members>
+        <members>ApprovalSubmission.OwnerId</members>
+        <members>ApprovalSubmission.RelatedRecordId</members>
+        <members>ApprovalSubmission.RelatedRecordObjectName</members>
+        <members>ApprovalSubmission.Status</members>
+        <members>ApprovalSubmission.SubmittedById</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>ApprovalSubmission</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>ApprovalSubmission.All_ApprovalSubmissions</members>
+        <members>ApprovalSubmission.My_ApprovalSubmissions</members>
+        <members>ApprovalSubmission.Pending_ApprovalSubmissions</members>
+        <name>ListView</name>
+    </types>
+</Package>
